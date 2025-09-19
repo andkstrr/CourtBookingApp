@@ -10,7 +10,6 @@ class ReceiptPage extends StatelessWidget {
     required this.price,
     required this.rate,
     required this.image
-
   });
 
   final String title;
